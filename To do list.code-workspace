@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\keeper App"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "keeper App"
+	}
+}
